@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(197, 197, 197);
+}
+
+h5 {
+    font-size: 21px;
+}
+
+.alignLeft {
+    margin: 3rem;
+    text-align: left;
+}
+
+h1 {
+    margin: 3rem;
+    padding: .2rem;
+    text-align: center;
+}
+p {
+    font-size: 19px;
+}
+
+#canvas {
+    margin: 3rem;
+}
